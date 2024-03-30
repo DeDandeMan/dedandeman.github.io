@@ -14,7 +14,7 @@ timezone: America/Phoenix
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DeDandeMan # the main title
+title: Daniel Hale # the main title
 
 tagline: Purpose - Truth - Skills # it will display as the sub-title
 
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: DeDandeMan
-  email: dedandemann@gmail.com # change to your email address
+  name: Daniel Hale
+  email: dedandeman@danielphale.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar.jfif
+avatar: /assets/img/frontfacedaniel.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
