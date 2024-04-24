@@ -16,7 +16,7 @@ timezone: America/Phoenix
 
 title: Daniel Hale # the main title
 
-tagline: Purpose - Truth - Skills # it will display as the sub-title
+tagline: Purpose - Truth - Skill # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   This is a website built by an aspiring developer
@@ -38,10 +38,9 @@ social:
   email: dedandeman@danielphale.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/DeDandeMan # change to your twitter homepage
     - https://github.com/dedandeman # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/daniel.hale.9421
     # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
