@@ -5,7 +5,8 @@ order: 4
 ---
 
 ## Who Am I
-I am a devout christian, and an aspiring husband, father and software engineer. I enjoy playing the piano, sports and board games.
+I am a dedicated disciple of Jesus Christ. I am currently pursuing a degree in Software Engineering at Arizona State University.
+I am fluent in Spanish, having learned the language by spending 2 years in southern Chile as a missionary for the Church of Jesus Christ of Latter Day Saints.
 
 ## My Interest
 Growing up, I have always enjoyed being around computers, I also enjoy pushing the boundaries of what they can do.

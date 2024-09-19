@@ -1,11 +1,9 @@
 ---
-title: Building my first Website
+title: Building My First Website
 date: 2024-04-25 09:35:00 +0700
 comments: false
 tags: [AboutMe]
 ---
-
-*Note*: Since doing what you are trying to learn is probably the best way to learn it, this post will serve as what I call my playground, meaning here is where I will try out different things while I learn how to build a website.
 
 ## Who Am I
 I am a devout christian, and an aspiring husband, father and software engineer. I enjoy playing the piano, sports and board games.
@@ -22,9 +20,9 @@ I like to call these principles the 'pillars to success'.
 Having a purpose is my first pillar, without deciding what we want in life, what we want each day, we don't make any real progress towards anything. Having a purpose can be as simple as deciding that you want to rank up a character on the video game you're currently into, to being as complex as striving to save up money to buy a house
 
 #### Truth
-I have repeatedly said that if the wings of your airplane are too small, it wont matter how much you believe they're big enough, they will not get your airplane off the ground.
+I have repeatedly said that if the wings of your airplane are too small, it won't matter how much you believe they're big enough, your airplane will not get off the ground.
 
-with that said, Truth is another pillar of success, at times people can 'persist in ignorance', trying to pretend that they have been right all along, but until one is ready and willing to acknowledge that they were wrong or made a mistake, there will always be a barrier preventing them from moving forward
+with that said, Truth is another pillar of success, at times people can 'persist in ignorance', trying to pretend that they have been right all along, but until one is ready and willing to acknowledge that they were wrong or made a mistake, there will always be a barrier preventing them from moving forward, or figuratively speaking, they will not be able to get their plane off the ground.
 
 #### Skill
 Having the biggest dreams, or the best aspirations and intentions are great, but until one has the ability to make them a reality, they will remain as dreams and aspirations.
