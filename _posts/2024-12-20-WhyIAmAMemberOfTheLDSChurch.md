@@ -2,8 +2,9 @@
 title: Why I Choose to be an Active Member of The Church of Jesus Christ of Latter-Day Saints
 date: 2024-12-20 19:35:00 +0700
 comments: false
-tags: [aboutme],[religion]
+tags: [aboutme]
 ---
+
 # I believe it's led by living prophets of God.
 A prophet of God is a messenger of God and has the responsibility to teach truth and help everyone live according to God's commandments.
 
