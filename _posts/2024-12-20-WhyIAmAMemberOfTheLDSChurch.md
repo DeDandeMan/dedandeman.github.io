@@ -18,9 +18,10 @@ I believe that since Joseph Smith, God has called succeeding prophets to lead an
 
 # I believe this life is the time to prepare to meet God, and to live with Him again.
 The Prophet, President Russell M. Nelson once taught 3 truths that put our life on Earth into perspective.
-1) We are all going to die someday
-2) Because of Jesus Christ we will all be resurrected and become immortal
-3) We will all stand before God to be judged
+
+1) We are all going to die someday.
+2) Because of Jesus Christ we will all be resurrected and become immortal.
+3) We will all stand before God to be judged.
 
 I believe that God lives the laws he has given to us, and that those that make it to heaven will continue to live the laws they lived here in Earth.
 
